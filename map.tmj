@@ -2283,21 +2283,11 @@
                          "name":"jitsiNoPrefix",
                          "type":"string",
                          "value":"true"
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Salle01"
-                        }, 
+                        },  
                         {
                          "name":"jitsiUrl",
                          "type":"string",
                          "value":"meet01.workadventure.labneosoft.fr"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Salle01"
                         }, 
                         {
                          "name":"zoomMargin",
