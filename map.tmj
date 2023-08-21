@@ -2133,7 +2133,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":72,
                  "name":"door1",
@@ -2165,13 +2164,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":372,
                  "y":3269
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":75,
                  "name":"door2",
@@ -2203,13 +2202,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1906.06060606061,
                  "y":2987.87878787879
                 }, 
                 {
-                 "class":"area",
                  "height":34,
                  "id":88,
                  "name":"rs",
@@ -2220,13 +2219,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":31.333333333333,
                  "x":2240.5,
                  "y":2015.5
                 }, 
                 {
-                 "class":"area",
                  "height":464.000333333333,
                  "id":89,
                  "name":"",
@@ -2242,24 +2241,24 @@
                          "value":0.2
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":652.000333333333,
                  "x":3138.6665,
                  "y":2999.99983333333
                 }, 
                 {
-                 "class":"",
                  "height":106.6667,
                  "id":91,
                  "name":"rsPopup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":203.667,
                  "x":2254.49983333333,
                  "y":1915.83331666667
                 }, 
                 {
-                 "class":"area",
                  "height":712,
                  "id":98,
                  "name":"",
@@ -2283,11 +2282,11 @@
                          "name":"jitsiNoPrefix",
                          "type":"string",
                          "value":"true"
-                        },  
+                        }, 
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"zoomMargin",
@@ -2295,13 +2294,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":392.667,
                  "x":1418.6665,
                  "y":1271
                 }, 
                 {
-                 "class":"area",
                  "height":712,
                  "id":99,
                  "name":"",
@@ -2334,7 +2333,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2347,13 +2346,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":392.667,
                  "x":1867.6665,
                  "y":1268
                 }, 
                 {
-                 "class":"area",
                  "height":712,
                  "id":105,
                  "name":"",
@@ -2386,7 +2385,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2399,13 +2398,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":392.667,
                  "x":2952.15134848485,
                  "y":1271.27272727273
                 }, 
                 {
-                 "class":"area",
                  "height":712,
                  "id":106,
                  "name":"",
@@ -2438,7 +2437,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2456,13 +2455,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":392.667,
                  "x":2503.6665,
                  "y":1274.30303030303
                 }, 
                 {
-                 "class":"area",
                  "height":710.121212121212,
                  "id":107,
                  "name":"",
@@ -2500,7 +2499,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2513,13 +2512,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":406.667,
                  "x":3395.72710606061,
                  "y":1271.27272727273
                 }, 
                 {
-                 "class":"area",
                  "height":338.909090909091,
                  "id":108,
                  "name":"",
@@ -2552,7 +2551,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2565,13 +2564,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":650.242757575757,
                  "x":2052.15134848485,
                  "y":2256.12121212121
                 }, 
                 {
-                 "class":"area",
                  "height":369.576,
                  "id":109,
                  "name":"",
@@ -2604,7 +2603,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2622,13 +2621,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":650.243,
                  "x":3150.63607575758,
                  "y":2234.84836363636
                 }, 
                 {
-                 "class":"area",
                  "height":369.576,
                  "id":110,
                  "name":"",
@@ -2659,11 +2658,6 @@
                          "value":"Salle07"
                         }, 
                         {
-                         "name":"jitsiUrl",
-                         "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Salle07"
@@ -2674,13 +2668,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":650.243,
                  "x":3150.63607575758,
                  "y":2612.30290909091
                 }, 
                 {
-                 "class":"area",
                  "height":34,
                  "id":168,
                  "name":"fdn",
@@ -2691,24 +2685,24 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":31.3333,
                  "x":1952.33335,
                  "y":2013
                 }, 
                 {
-                 "class":"",
                  "height":87.6667,
                  "id":169,
                  "name":"fdnPopup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":157.667,
                  "x":1978.1665,
                  "y":1931.16665
                 }, 
                 {
-                 "class":"area",
                  "height":810,
                  "id":170,
                  "name":"chatzone",
@@ -2734,24 +2728,24 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":830.667,
                  "x":529.6665,
                  "y":1274
                 }, 
                 {
-                 "class":"",
                  "height":103.333,
                  "id":171,
                  "name":"indice3Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":280.667,
                  "x":50.39455,
                  "y":3198.12165
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":92.6667,
                  "id":172,
@@ -2763,24 +2757,24 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":66.6666666666667,
                  "x":239.60545,
                  "y":3303.21165
                 }, 
                 {
-                 "class":"",
                  "height":95,
                  "id":173,
                  "name":"indice9Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":200.667,
                  "x":3888.72983333333,
                  "y":3197.95498333333
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":97.6667,
                  "id":174,
@@ -2792,24 +2786,24 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.6666666666665,
                  "x":3841.26983333333,
                  "y":3291.04498333333
                 }, 
                 {
-                 "class":"",
                  "height":112,
                  "id":195,
                  "name":"indice1Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":280.667,
                  "x":1861.74268181818,
                  "y":2654.68554545454
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":82.0003333333335,
                  "id":196,
@@ -2821,24 +2815,24 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":75.3333333333337,
                  "x":2012.95268181818,
                  "y":2799.10221212121
                 }, 
                 {
-                 "class":"",
                  "height":98.667,
                  "id":197,
                  "name":"indice2Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":174,
                  "x":3427.92268181818,
                  "y":224.133545454545
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":106,
                  "id":198,
@@ -2850,13 +2844,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94,
                  "x":3576.47268181818,
                  "y":313.898545454545
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":72.6667,
                  "id":199,
@@ -2868,35 +2862,35 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":102,
                  "x":304.220681818182,
                  "y":1384.98554545454
                 }, 
                 {
-                 "class":"",
                  "height":87.1667,
                  "id":200,
                  "name":"indice5Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":143.167,
                  "x":232.616681818182,
                  "y":1303.27554545454
                 }, 
                 {
-                 "class":"",
                  "height":107.667,
                  "id":201,
                  "name":"indice7Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":222.667,
                  "x":1402.68268181818,
                  "y":308.894545454545
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":112,
                  "id":202,
@@ -2908,24 +2902,24 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":120,
                  "x":1299.88601515152,
                  "y":414.819212121212
                 }, 
                 {
-                 "class":"",
                  "height":116,
                  "id":203,
                  "name":"indice8Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":178.667,
                  "x":3598.01934848485,
                  "y":3075.89221212121
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":76.7276666666667,
                  "id":204,
@@ -2937,24 +2931,24 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80.0603333333333,
                  "x":3671.89268181819,
                  "y":3202.13887878787
                 }, 
                 {
-                 "class":"",
                  "height":112,
                  "id":205,
                  "name":"indice6Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":189.334,
                  "x":1150.01268181818,
                  "y":3337.22554545454
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":95.5000333333337,
                  "id":206,
@@ -2966,24 +2960,24 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":130.333333333333,
                  "x":1032.55934848485,
                  "y":3461.31554545454
                 }, 
                 {
-                 "class":"",
                  "height":101.667,
                  "id":207,
                  "name":"indice4Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":158.667,
                  "x":2810.98268181818,
                  "y":1930.32554545454
                 }, 
                 {
-                 "class":"area",
                  "ellipse":true,
                  "height":101.121,
                  "id":208,
@@ -2995,13 +2989,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":70.6669999999999,
                  "x":2957.68268181818,
                  "y":1984.87554545455
                 }, 
                 {
-                 "class":"area",
                  "height":310,
                  "id":212,
                  "name":"",
@@ -3017,13 +3011,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":538.242757575758,
                  "x":1141.50146969697,
                  "y":298.106545454545
                 }, 
                 {
-                 "class":"area",
                  "height":350.333333333333,
                  "id":213,
                  "name":"",
@@ -3039,13 +3033,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":553.757909090909,
                  "x":3314.53177272727,
                  "y":217.106545454545
                 }, 
                 {
-                 "class":"area",
                  "height":90,
                  "id":216,
                  "name":"",
@@ -3056,13 +3050,13 @@
                          "value":"Zone Info"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":153.667,
                  "x":737.6665,
                  "y":2146
                 }, 
                 {
-                 "class":"area",
                  "height":84,
                  "id":219,
                  "name":"chatzone",
@@ -3075,16 +3069,16 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":156.667,
                  "x":914.6665,
                  "y":1365
                 }, 
                 {
-                 "class":"area",
                  "height":210.909,
                  "id":220,
                  "name":"",
@@ -3117,7 +3111,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3130,13 +3124,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":359.576333333333,
                  "x":1657.54516666667,
                  "y":2510.5455
                 }, 
                 {
-                 "class":"area",
                  "height":190.909,
                  "id":221,
                  "name":"",
@@ -3169,7 +3163,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3182,13 +3176,13 @@
                          "value":0.8
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":359.576,
                  "x":1656.212,
                  "y":2271.87883333333
                 }, 
                 {
-                 "class":"area",
                  "height":260.242333333333,
                  "id":222,
                  "name":"",
@@ -3216,7 +3210,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3224,13 +3218,13 @@
                          "value":"Chat - Salon 02"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":254.242666666667,
                  "x":128.212,
                  "y":2207.21216666667
                 }, 
                 {
-                 "class":"area",
                  "height":164.242,
                  "id":224,
                  "name":"",
@@ -3258,7 +3252,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3266,13 +3260,13 @@
                          "value":"Chat - Salon 03"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":254.243,
                  "x":126.211833333333,
                  "y":2524.54566666667
                 }, 
                 {
-                 "class":"area",
                  "height":313.575333333333,
                  "id":228,
                  "name":"",
@@ -3300,7 +3294,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3308,13 +3302,13 @@
                          "value":"Chat - Cuisine"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":706.243,
                  "x":126.211833333333,
                  "y":2948.54566666667
                 }, 
                 {
-                 "class":"area",
                  "height":88.2420000000002,
                  "id":229,
                  "name":"",
@@ -3342,7 +3336,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3350,13 +3344,13 @@
                          "value":"Info"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":146.243,
                  "x":742.8785,
                  "y":2147.879
                 }, 
                 {
-                 "class":"area",
                  "height":137.242,
                  "id":230,
                  "name":"",
@@ -3389,7 +3383,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3397,13 +3391,13 @@
                          "value":"Soig"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":246.243,
                  "x":642.8785,
                  "y":2706.879
                 }, 
                 {
-                 "class":"area",
                  "height":130.242,
                  "id":231,
                  "name":"",
@@ -3436,7 +3430,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3444,13 +3438,13 @@
                          "value":"DMC"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":182.243,
                  "x":1060.8785,
                  "y":2710.879
                 }, 
                 {
-                 "class":"area",
                  "height":129.242,
                  "id":232,
                  "name":"",
@@ -3473,7 +3467,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet01.workadventure.labneosoft.fr"
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -3481,13 +3475,13 @@
                          "value":"Labgo"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":184.243,
                  "x":1280.8785,
                  "y":2709.879
                 }, 
                 {
-                 "class":"area",
                  "height":253,
                  "id":234,
                  "name":"",
@@ -3518,13 +3512,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":283,
                  "x":611,
                  "y":2306
                 }, 
                 {
-                 "class":"area",
                  "height":253,
                  "id":235,
                  "name":"",
@@ -3535,13 +3529,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":412,
                  "x":1057.5,
                  "y":2306.5
                 }, 
                 {
-                 "class":"area",
                  "height":60,
                  "id":236,
                  "name":"",
@@ -3572,13 +3566,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":124,
                  "x":1282.5,
                  "y":2144.5
                 }, 
                 {
-                 "class":"area",
                  "height":610.333333333333,
                  "id":237,
                  "name":"",
@@ -3599,13 +3593,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":863,
                  "x":511.833333333333,
                  "y":1468.16666666667
                 }, 
                 {
-                 "class":"area",
                  "height":177,
                  "id":238,
                  "name":"",
@@ -3631,13 +3625,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":304.333333333333,
                  "x":2983.83333333333,
                  "y":678.833333333333
                 }, 
                 {
-                 "class":"area",
                  "height":181,
                  "id":239,
                  "name":"",
@@ -3663,13 +3657,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":304.333333333333,
                  "x":3558.5,
                  "y":582.833333333333
                 }, 
                 {
-                 "class":"area",
                  "height":92.333333333333,
                  "id":240,
                  "name":"",
@@ -3695,13 +3689,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.3330000000001,
                  "x":2881.8335,
                  "y":2114.16666666667
                 }, 
                 {
-                 "class":"area",
                  "height":92.3333,
                  "id":241,
                  "name":"",
@@ -3727,13 +3721,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.333,
                  "x":2881.3335,
                  "y":2337.83335
                 }, 
                 {
-                 "class":"area",
                  "height":92.3333,
                  "id":242,
                  "name":"",
@@ -3759,13 +3753,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.333,
                  "x":2881.8335,
                  "y":2562.33335
                 }, 
                 {
-                 "class":"area",
                  "height":92.3333,
                  "id":243,
                  "name":"",
@@ -3791,13 +3785,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.333,
                  "x":2882.8335,
                  "y":2785.83335
                 }, 
                 {
-                 "class":"area",
                  "height":92.3333,
                  "id":244,
                  "name":"",
@@ -3823,13 +3817,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.333,
                  "x":2657.8335,
                  "y":2784.83335
                 }, 
                 {
-                 "class":"area",
                  "height":92.3333,
                  "id":245,
                  "name":"",
@@ -3855,13 +3849,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.333,
                  "x":2434.3335,
                  "y":2785.83335
                 }, 
                 {
-                 "class":"area",
                  "height":63.3332999999998,
                  "id":246,
                  "name":"",
@@ -3887,13 +3881,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":32.3330000000001,
                  "x":2593.8335,
                  "y":2655.83335
                 }, 
                 {
-                 "class":"area",
                  "height":63.3333,
                  "id":247,
                  "name":"",
@@ -3919,13 +3913,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":32.333,
                  "x":2526.8335,
                  "y":2654.33335
                 }, 
                 {
-                 "class":"area",
                  "height":25.3332999999998,
                  "id":248,
                  "name":"",
@@ -3951,13 +3945,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":55.333,
                  "x":134.8335,
                  "y":2692.33335
                 }, 
                 {
-                 "class":"area",
                  "height":25.3333,
                  "id":249,
                  "name":"",
@@ -3983,6 +3977,7 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":55.333,
                  "x":133.3335,
@@ -4290,7 +4285,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -6778,6 +6773,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":128
 }
