@@ -416,7 +416,7 @@
                  "value":"door1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -562,7 +562,7 @@
                  "value":"door2"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -692,7 +692,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -1472,7 +1472,7 @@
          "name":"belowFurnitures2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -1602,7 +1602,7 @@
          "name":"belowFurnitures1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -1732,7 +1732,7 @@
          "name":"furnitures",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -1862,7 +1862,7 @@
          "name":"aboveFurnitures1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -1992,7 +1992,7 @@
          "name":"aboveFurnitures2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -2122,7 +2122,7 @@
          "name":"Indices",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -2328,7 +2328,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Salle02"
+                         "value":""
                         }, 
                         {
                          "name":"jitsiUrl",
@@ -2380,7 +2380,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Salle04"
+                         "value":""
                         }, 
                         {
                          "name":"jitsiUrl",
@@ -2390,7 +2390,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Salle04"
+                         "value":""
                         }, 
                         {
                          "name":"zoomMargin",
@@ -2432,7 +2432,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Salle03"
+                         "value":""
                         }, 
                         {
                          "name":"jitsiUrl",
@@ -2442,7 +2442,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Salle03"
+                         "value":""
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2482,11 +2482,6 @@
                          "value":"{\n  \"startWithAudioMuted\": true,\n  \"startWithVideoMuted\": true\n}"
                         }, 
                         {
-                         "name":"jitsiInterfaceConfig",
-                         "type":"string",
-                         "value":"{\n  \"DEFAULT_BACKGROUND\": \"#77ee77\"\n} "
-                        }, 
-                        {
                          "name":"jitsiNoPrefix",
                          "type":"string",
                          "value":"true"
@@ -2494,7 +2489,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Salle05"
+                         "value":""
                         }, 
                         {
                          "name":"jitsiUrl",
@@ -2504,7 +2499,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Salle05"
+                         "value":""
                         }, 
                         {
                          "name":"zoomMargin",
@@ -2546,7 +2541,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Salle08"
+                         "value":""
                         }, 
                         {
                          "name":"jitsiUrl",
@@ -2556,7 +2551,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Salle08"
+                         "value":""
                         }, 
                         {
                          "name":"zoomMargin",
@@ -2598,7 +2593,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Salle06"
+                         "value":""
                         }, 
                         {
                          "name":"jitsiUrl",
@@ -2608,7 +2603,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Salle06"
+                         "value":""
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2655,12 +2650,17 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Salle07"
+                         "value":""
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":""
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Salle07"
+                         "value":""
                         }, 
                         {
                          "name":"zoomMargin",
@@ -3168,7 +3168,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Chat - Salon 01"
+                         "value":""
                         }, 
                         {
                          "name":"zoomMargin",
@@ -4114,7 +4114,7 @@
          "name":"abovePlayer1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -4245,7 +4245,7 @@
          "name":"abovePlayer2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":128,
          "x":0,
          "y":0
@@ -4285,7 +4285,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
